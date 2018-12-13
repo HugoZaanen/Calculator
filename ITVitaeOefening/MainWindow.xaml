@@ -14,7 +14,7 @@
         <TextBox x:Name="Getal2"/>
         <Button x:Name="Bereken" Content="Bereken!" Margin="0,10,0,0" Click="Berekenen"/>
         <Label x:Name="Veld" />
-        <RadioButton x:Name="Optellen" Content="Optellen"/>
+        <RadioButton IsChecked="true" x:Name="Optellen" Content="Optellen"/>
         <RadioButton x:Name="Aftrekken" Content="Aftrekken"/>
         <RadioButton x:Name="Vermenigvuldigen" Content="Vermenidvuldigen"/>
         <RadioButton x:Name="Delen" Content="Delen"/>
